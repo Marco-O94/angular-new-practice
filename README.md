@@ -1,6 +1,8 @@
-# AngularPracticeApp
+# What i learned in this project
+- Models and Interfaces in Angular in recipe.model in /recipes/recipe-list/recipe.model.ts
+- Spread operator with function arguments
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
+
 
 ## Development server
 
